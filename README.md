@@ -375,3 +375,6 @@ For validation errors:
 4. **Strong Passwords**: Although the API minimum is 8 characters, use stronger passwords with mixed case, numbers, and symbols.
 5. **Environment Variables**: Store sensitive information (like JWT secret) in environment variables, not in code.
 
+## Project URLs
+- https://roadmap.sh/projects/expense-tracker-api
+- https://github.com/AhmedHeshamC/expenseTrackerAPI
